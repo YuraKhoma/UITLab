@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebShop.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebShop.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebShop.Common.dll": {}
+        }
+      },
+      "WebShop.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "WebShop.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebShop.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebShop.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebShop.Common/1.0.0": {
+      "type": "project",
+      "path": "../WebShop.Common/WebShop.Common.csproj",
+      "msbuildProject": "../WebShop.Common/WebShop.Common.csproj"
+    },
+    "WebShop.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../WebShop.DataAccess/WebShop.DataAccess.csproj",
+      "msbuildProject": "../WebShop.DataAccess/WebShop.DataAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WebShop.Common >= 1.0.0",
+      "WebShop.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yura\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj",
+      "projectName": "WebShop.BL",
+      "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj",
+      "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Yura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj": {
+              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj"
+            },
+            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

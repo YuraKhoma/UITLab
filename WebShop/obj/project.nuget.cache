@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiFEWaxYOiwCBN+g1ORYWDwAW7vFu5x0NVPZQ34tKapqiMen9bnC73tKcX2BGxsF3GtAWBNVT1B3OqY6dStasg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop\\WebShop.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebShop.UI/1.0.0": {
+        "dependencies": {
+          "WebShop.BL": "1.0.0",
+          "WebShop.Common": "1.0.0",
+          "WebShop.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "WebShop.UI.dll": {}
+        }
+      },
+      "WebShop.BL/1.0.0": {
+        "dependencies": {
+          "WebShop.Common": "1.0.0",
+          "WebShop.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "WebShop.BL.dll": {}
+        }
+      },
+      "WebShop.Common/1.0.0": {
+        "runtime": {
+          "WebShop.Common.dll": {}
+        }
+      },
+      "WebShop.DataAccess/1.0.0": {
+        "dependencies": {
+          "WebShop.Common": "1.0.0"
+        },
+        "runtime": {
+          "WebShop.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebShop.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebShop.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebShop.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebShop.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
