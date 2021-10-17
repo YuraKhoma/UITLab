@@ -26,7 +26,7 @@ namespace WebShop
                 Console.WriteLine("3 - Register");
                 Console.WriteLine("4 - Sing in");
                 Console.WriteLine("5 - Create order");
-                Console.WriteLine("6 - Cancel orer");
+                Console.WriteLine("7 - Cancel orer");
                 Console.WriteLine("16 - Exit");
 
                 uint action = Convert.ToUInt32(Console.ReadLine());
@@ -48,7 +48,7 @@ namespace WebShop
                     case 5:
                         orderManagerUi.CreateNewOrder();
                         break;
-                    case 6:
+                    case 7:
                         orderManagerUi.CancelOrderUI();
                         break;
 

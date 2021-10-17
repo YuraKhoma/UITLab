@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop\\WebShop.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop\\WebShop.UI.csproj",
       "projectName": "WebShop.UI",
-      "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop\\WebShop.UI.csproj",
+      "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop\\WebShop.UI.csproj",
       "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop\\obj\\",
+      "outputPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,14 +96,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj": {
-              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj"
+            "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.BL\\WebShop.BL.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.BL\\WebShop.BL.csproj"
             },
-            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj": {
-              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj"
+            "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj"
             },
-            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj"
+            "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.DataAccess\\WebShop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.DataAccess\\WebShop.DataAccess.csproj"
             }
           }
         }

@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj",
+      "projectUniqueName": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.BL\\WebShop.BL.csproj",
       "projectName": "WebShop.BL",
-      "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\WebShop.BL.csproj",
+      "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.BL\\WebShop.BL.csproj",
       "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.BL\\obj\\",
+      "outputPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,11 +76,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj": {
-              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj"
+            "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj"
             },
-            "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.DataAccess\\WebShop.DataAccess.csproj"
+            "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.DataAccess\\WebShop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.DataAccess\\WebShop.DataAccess.csproj"
             }
           }
         }

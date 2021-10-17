@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj",
       "projectName": "WebShop.Common",
-      "projectPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\WebShop.Common.csproj",
+      "projectPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\WebShop.Common.csproj",
       "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yura\\source\\repos\\WebShop\\WebShop.Common\\obj\\",
+      "outputPath": "C:\\Users\\Yura\\Documents\\GitHub\\UITLab\\WebShop.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
