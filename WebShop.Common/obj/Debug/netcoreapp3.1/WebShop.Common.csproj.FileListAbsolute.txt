@@ -7,3 +7,12 @@ C:\Users\Yura\source\repos\WebShop\WebShop.Common\obj\Debug\netcoreapp3.1\WebSho
 C:\Users\Yura\source\repos\WebShop\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.dll
 C:\Users\Yura\source\repos\WebShop\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.pdb
 C:\Users\Yura\source\repos\WebShop\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.csproj.AssemblyReference.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\bin\Debug\netcoreapp3.1\WebShop.Common.deps.json
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\bin\Debug\netcoreapp3.1\WebShop.Common.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\bin\Debug\netcoreapp3.1\WebShop.Common.pdb
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.csproj.AssemblyReference.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.AssemblyInfoInputs.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.AssemblyInfo.cs
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.Common\obj\Debug\netcoreapp3.1\WebShop.Common.pdb

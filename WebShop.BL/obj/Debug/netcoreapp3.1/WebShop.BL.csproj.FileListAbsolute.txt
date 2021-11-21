@@ -12,3 +12,17 @@ C:\Users\Yura\source\repos\WebShop\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL
 C:\Users\Yura\source\repos\WebShop\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.dll
 C:\Users\Yura\source\repos\WebShop\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.pdb
 C:\Users\Yura\source\repos\WebShop\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.csproj.AssemblyReference.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.BL.deps.json
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.BL.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.BL.pdb
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.Common.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.DataAccess.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.Common.pdb
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\bin\Debug\netcoreapp3.1\WebShop.DataAccess.pdb
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.csproj.AssemblyReference.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.AssemblyInfoInputs.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.AssemblyInfo.cs
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.csproj.CopyComplete
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.dll
+C:\Users\Yura\Documents\GitHub\UITLab\WebShop.BL\obj\Debug\netcoreapp3.1\WebShop.BL.pdb
